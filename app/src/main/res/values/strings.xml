@@ -2,6 +2,7 @@
     <string name="app_name">SleepWell</string>
     <string name="title_home">Home</string>
     <string name="title_calendar">Calendar</string>
+    <string name="title_average">Rating</string>
     <string name="rate_your_sleep">Rate your sleep</string>
     <string name="save_to_calendar">Save to Calendar</string>
     <string name="no_entries_yet">No entries yet</string>
@@ -12,4 +13,9 @@
     <string name="date_format">Date: %s</string>
     <string name="entry_format">Date: %1$s | Rating: %2$d</string>
     <string name="added_to_calendar">Added to Calendar!</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="average_rating_title">Average Sleep Rating</string>
+    <string name="default_average">0.0</string>
+    <string name="date_already_exists">An entry for %s already exists!</string>
 </resources>
